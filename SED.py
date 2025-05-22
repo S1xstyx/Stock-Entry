@@ -71,4 +71,4 @@ if uploaded_file is not None:
     st.subheader("Result")
     st.write(result)
 
-pip install opencv-python-headless
+    pip install opencv-python-headless

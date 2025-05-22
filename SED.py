@@ -70,5 +70,3 @@ if uploaded_file is not None:
     result = detect_patterns(image_path)
     st.subheader("Result")
     st.write(result)
-
-    pip install opencv-python-headless
